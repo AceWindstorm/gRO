@@ -1,0 +1,22 @@
+Personal Changelog - Luke "AceWindstorm" Loposky volunteering as a developer for GatheringRO Private Ragnarok Online Server.
+
+
+
+6/??/19 - Initial join. Modified numbers and core function of lhz_dun_n.txt in master/npc/re/mobs/dungeons/lhz_dun_n.txt. Suggested additional changes at the time as player feedback and offered to handle that as well.
+
+
+7/31/19 - Heavily assisted by Admin Everade in creating a basic testing environment and then some. Re-examined lhz_dun_n.txt and tested. Fixed MvP spawn issue. Additional rebalance of numbers. Learned some information about XAMPP and its SQL. Learned some skills pertaining specifically to maintaining/testing Ragnarok as well. Gave additional feedback.
+
+8/1/19 - Explained changes to lhz_dun_n.txt to Everade. Minor reverts of code that were made to help testing. Final version, ready for release. Also submitted a Suggested Changes document for balance in the near future, of lhz_dun_n.txt (Nightmare Biolabs) and Nightmarish Jitterbug instance.
+
+9/23/19 - Compiled multilayered doc of miscellaneous missing features. Doc locally saved, references google doc files for each issue. Currently populated with 4 issues.
+
+9/28/19 - Began work on updating OldGlastHeim_merchants.txt with the Portrait Collector NPC. Version 1.1 of script completed and tested. Sending to admin. Doc approved, required a few small extra modifications. Also got the Sky Fortress mob drops done, admin handled it while we verified it together.
+
+9/30/19 - Not supplied with proper drop database contents. Lacking some of the custom content for the server. Instead, wrote up changelist document for admin to implement on Bio5 droprates. Took a few hours. Sent it to admin.
+
+10/5/19 - Discussion with admin about changelist document. After some clarification and discussion, full approval and implementation. Cool stuff!
+
+11/27/19 - The past month has been filled with lost of discussion with the admin. Tons of changes to the codebase have been made, and we have been verifying and adjusting as needed. We also laid out future expectations and potential solutions to problems should they arise in terms of balance and rates. Additionally, I have reported tons of bugs and we together have fixed many, I would estimate about 8-10 total, with 3 of them being huge gameplay issues.
+
+4/?/20 - While my final college semester + newfound job has been keeping me busy, I still try to keep myself in the loop and help where I can actively through feedback or testing, even if I am not directly developing some content. Tested the implementation of the Charleston Crisis instance, and managed to find some bugs related to sequenced events. Some of the stuff I implemented in the past recieved official version updates, and I was told that my large set of changes to Nightmare Biolabs was effectively 1:1 in terms of the new code, which is cool! A couple of the NPCs I covered got the same treatment as well. More content is coming so more testing will be done... when things are ready.
