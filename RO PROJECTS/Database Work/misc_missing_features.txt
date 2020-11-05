@@ -1,0 +1,68 @@
+Organization style within categories :
+
+
+NAME ================================  Navigation/Database? ============ Location? ======= Exists? ==== Document Status : Document Link 
+
+
+Categories -----
+
+
+
+
+
+
+
+Old Glast Heim -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+```````````````Researching "Portrait Collector" NPC - Findable on Navigation - glast_01 216 292 - INVISIBLE - Finished : https://docs.google.com/document/d/1LNeSIhDMiRrS5jKnqGF4JPYkKJTErFL4YfFQVyO_kz0/edit?usp=sharing
+
+
+COMPLETED - Portrait Collector
+
+
+
+
+Rockridge ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INVALID - 16.2 UPDATE CONTENT I THINK - Rockridge "Calf" weaponry - Findable in databases - Specifics unknown, rockrdg1/rockrdg2/rockmi1 - Yes, in database, mobs also exist. - Not started yet. Items may be left for future 16.2 update, appears as though they coincide with Heart Hunter Warbase (although they are not from it).
+
+COMPLETED - Rockridge release weaponry 
+
+
+
+
+Ruined Prontera/Banquet of Heroes ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+```````````````Sky Fortress Mob Drops - Findable in Databases - Immortal Wind Ghost and Immortal Cursed Knight - Yes, mobs already implemented, missing items - Finished : https://docs.google.com/document/d/1TG6SFoAW1YzDG6th8edddJIGr3r4e_RnQC2Df3VQrTw/edit?usp=sharing
+
+COMPLETED - Mob drops
+
+KNOWN, NOT APPLICABLE FOR CUSTOM WORK : Viscious Mind Weaponry Enchants
+
+
+
+
+Bio5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bio5 mob drop corrections - Findable on Databases - Every mob in dungeon - Yes, in database and game, mobs exist - Finished : https://docs.google.com/document/d/19__QgmXoXFs-fNgVXxDUdNXOYx4QVy_uTtJhig1U1zA/edit?usp=sharing
+
+
+
+
+
+
+
+Mob Cleanups (Guild Dungeons) --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Mob | ID | Drop | Drop ID | Drop Chance | Link
+
+Caterpillar | 1300 | Glove of Shura | 2894 | http://www.divine-pride.net/database/monster/1300/caterpillar
+
+Gajomart | 1309 | Glove of Shura | 2894 | http://www.divine-pride.net/database/monster/1309/gajomart
+
+Killer Mantis | 1294 | Glove of Shura | 2894 | http://www.divine-pride.net/database/monster/1294/killer-mantis
+
+Wraith Dead | 1291 | Black Rosary | 2898 | http://www.divine-pride.net/database/monster/1291/wraith-dead
+
+Gld_dark_shadow | 2281 | Bradium (Replace Bradium Stone Hammer) | 6224 | http://www.divine-pride.net/database/monster/2281/dark-shadow

@@ -1,0 +1,233 @@
+// 3208 - Eremes
+
+// Current Drops
+//
+// Thief Soul - Etc - 6816 - 2.00%
+// Costume Circlet of Bones - Armor/Equipment - 19973 - 2.00%
+// Death's Chest - Usable - 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Eremes Guile Card - Etc - 4684 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3209 - Magaleta
+
+// Current Drops
+//
+// Acolyte Soul - Etc - 6819 - 2.00%
+// Costume Mitra - Armor/Equipment - 19962 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Margaretha Sorin Card - Etc - 4685 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3210 - Katrinn
+//
+// Mage Soul - Etc - 6817 - 2.00%
+// Costume Magic Stone Hat - Armor/Equipment - 19968 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Kathryne Keyron Card - Etc - 4686 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3211 - Cecil
+//
+// Archer Soul - Etc - 6818 - 2.00%
+// Costume Old Camouflage Rabbit Hood - Armor/Equipment - 19974 - 2.00%
+// Costume Sniper Google - Armor/Equipment - 20392 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Cecil Damon Card - Etc - 4687 - 1.00%
+
+// REMOVALS
+//
+// Costume Sniper Google - Armor/Equipment - 20392 - 2.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3212 - Howard
+//
+// Merchant Soul - Etc - 6815 - 2.00%
+// Costume Driver Band(Red) - Armor/Equipment - 19963 - 2.00%
+// Costume Driver Band(Yellow) - Armor/Equipment - 19964 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Howard Alt-Eisen Card - Etc - 4688 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3213 - Seyren
+//
+// Swordman Soul - Etc - 6814 - 2.00%
+// Costume Rune Circlet - Armor/Equipment - 19961 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Seyren Windsor Card - Etc - 4689 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3226 - Randel
+//
+// Swordman Soul - Etc - 6814 - 2.00%
+// Costume Schmitz Helm - Armor/Equipment - 20393 - 2.00%
+// Costume Protect Of Crown - Armor/Equipment - 19972 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Randel Lawrence Card - Etc - 4690 - 1.00%
+
+// REMOVALS
+//
+// Costume Schmitz Helm - Armor/Equipment - 20393 - 2.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3227 - Flamel
+//
+// Merchant Soul - Etc - 6815 - 2.00%
+// Costume Midas Whisper - Armor/Equipment - 19967 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Flamel Emure Card - Etc - 4691 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3228 - Celia
+//
+// Mage Soul - Etc - 6817 - 2.00%
+// Costume Wind Whisper - Armor/Equipment - 19970 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Celia Alde Card - Etc - 4692 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3229 - Chen
+//
+// Acolyte Soul - Etc - 6819 - 2.00%
+// Costume Blazing Soul - Armor/Equipment - 19808 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Chen Liu Card - Etc - 4693 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3230 - Gertie
+//
+// Thief Soul - Etc - 6816 - 2.00%
+// Costume Shadow Handicraft - Armor/Equipment - 19965 - 2.00%
+// Death's Chest - Usable - 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Gertie Wie Card - Etc - 4694 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3231 - Alphoccio
+//
+// Archer Soul - Etc - 6818 - 2.00%
+// Costume Minstrel Song's Hat - Armor/Equipment - 19966 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Alphoccio Card - Etc - 4696 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)
+
+===========================================================================================================================================================================================
+
+// 3232 - Trentini
+//
+// Archer Soul - Etc - 6818 - 2.00%
+// Costume Dying Swan - Armor/Equipment - 19971 - 2.00%
+// Death's Chest - Usable 22679 - 1.00%
+// Sentimental Fragment - Usable - 22687 - 5.00%
+// Fallen Energy Particle (x2) - Etc - 25131 - 5.00% (x2 = 10%~)
+// Cursed Fragment (x2) - Usable - 23016 - 2.50% (x2 = 5%~)
+// True Trentini Card - Etc - 4695 - 1.00%
+
+// Corrections
+//
+// Fallen Energy Particle (x2) - Etc - 25131 - **20%** (x2 = 40%~)
+// Cursed Fragment (x2) - Usable - 23016 - **15%** (x2 = 30%~)

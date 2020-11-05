@@ -1,0 +1,41 @@
+// Portrait Collector NPC (Card Vendor)
+//============================================================
+glast_01,216,292,4	script	Portrait Collector#pa0829	17962,{ 		//Whats name#pa0829? I think 1_F_01 is the sprite. Tested NPC, works fine for me. Can tune looks/etc.
+		disable_items;
+		if (MaxWeight - Weight < 1000) { 		//standard inventory check
+			mes "These are delicate items! Reduce your weight and come back.";
+			close;
+		}
+		mes "[Portrait Collector]";
+		mes "Bring me Coagulated Spells! These rare gems are the only thing I will trade my rare portraits for. Be careful what you choose, no refunds!";
+		next;
+		switch( select("Cancel", "White Knight Card (6000 Coagulated Spells)", "Khalitzburg Knight Card (10000 Coagulated Spells)")) {
+		case 1:
+				mes "[Portrait Collector]";
+				mes "I will be waiting here with my collection if you are interested.";
+				close;
+		case 2:
+				if (countitem(6608) > 5999) {
+						mes "[Portrait Collector]";
+						mes "Yes! 6000 Coagulated Spells for this White Knight portrait.";
+						delitem 6608,6000; 		//costs 6000 spells
+						getitem 4608,1;		 //recieve White Knight Card
+						close;
+				}
+				mes "[Portrait Collector]";
+				mes "You don't have enough spells! No way I would trade these for anything less! Come back when you can pay up!";
+				close;
+		case 3:
+				if (countitem(6608) > 9999) {
+						mes "[Portrait Collector]";
+						mes "Yes! 10000 Coagulated Spells for this Khalitzburg Knight portrait.";
+						delitem 6608,10000; 		//costs 10000 spells
+						getitem 4609,1;		 //recieve Khalitzburg Knight Card
+						close;
+				}
+				mes "[Portrait Collector]";
+				mes "You don't have enough spells! No way I would trade these for anything less! Come back when you can pay up!";
+				close;
+		}
+		close;
+		}
